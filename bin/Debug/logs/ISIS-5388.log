@@ -1,0 +1,10 @@
+Isis V2.2 Revision 1939: 3/31/2015 11:44:43 AM (01:02:45.6333077) <KEVIN-PC: 192.168.1.23>
+Major Isis Runtime Settings: ORACLESIZE = 3; 
+P2P/ACK port numbers = {9753/9754}; IPMC base portno = 11002
+IPMC address range = {224.0.19.136-224.7.180.168}, MAXIPMCADDRS in use = 25
+---------------------------------------------------------------------------------------------
+... MyAddress = (5388)
+Isis: Searching for the Isis ORACLE...
+ISIS process-id: 5388, my_address = (5388)
+WARNING: Isis2 can't serialize IEnumerable<T>; use List<T> or Array<T> instead
+Msg.toBArray is unable to marshall object of type System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.Dictionary`2[System.String,System.String]] (did you remember to call Msg.RegisterType?)

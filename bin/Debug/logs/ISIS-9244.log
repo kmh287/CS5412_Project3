@@ -1,0 +1,10 @@
+Isis V2.2 Revision 1939: 3/31/2015 1:56:51 PM (03:14:53.6716257) <KEVIN-PC: 192.168.1.23>
+Major Isis Runtime Settings: ORACLESIZE = 3; 
+P2P/ACK port numbers = {9753/9754}; IPMC base portno = 11002
+IPMC address range = {224.0.19.136-224.7.180.168}, MAXIPMCADDRS in use = 25
+---------------------------------------------------------------------------------------------
+... MyAddress = (9244)
+Isis: Searching for the Isis ORACLE...
+Isis: Found the Isis.ORACLE service, attempting to connect...........ISIS process-id: 9244, my_address = (9244)
+New View: View[gname=<IsisGroup>, gaddr=(0:224.0.204.217/0:0), viewid=4;  5 members={ [(8320)(8328)(9768)(9504)(9244)]}, nextIn={  <4:0> 4:0 4:0 4:0 4:0 4:0 }, minStable=-1 (last sent -1), StableTo={ ** 0 0 0 0 0 }, joining={ [(9244)]}, leaving={ []}, IamLeader = False
+New View: View[gname=<IsisGroup>, gaddr=(0:224.0.204.217/0:0), viewid=5;  4 members={ [(8328)(9768)(9504)(9244)]}, nextIn={  <5:0> 5:0 5:0 5:0 5:0 }, minStable=-1 (last sent -1), StableTo={ ** 0 0 0 0 }, joining={ []}, leaving={ [(8320)]}, IamLeader = False

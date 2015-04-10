@@ -1,0 +1,6 @@
+c:\users\kevin\documents\visual studio 2013\Projects\CS5412_Project3\CS5412_Project3\bin\Debug\CS5412_Project3.exe.config
+c:\users\kevin\documents\visual studio 2013\Projects\CS5412_Project3\CS5412_Project3\obj\Debug\CS5412_Project3.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2013\Projects\CS5412_Project3\CS5412_Project3\bin\Debug\CS5412_Project3.exe
+c:\users\kevin\documents\visual studio 2013\Projects\CS5412_Project3\CS5412_Project3\bin\Debug\CS5412_Project3.pdb
+c:\users\kevin\documents\visual studio 2013\Projects\CS5412_Project3\CS5412_Project3\obj\Debug\CS5412_Project3.exe
+c:\users\kevin\documents\visual studio 2013\Projects\CS5412_Project3\CS5412_Project3\obj\Debug\CS5412_Project3.pdb

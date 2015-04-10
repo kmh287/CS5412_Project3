@@ -1,0 +1,11 @@
+Isis V2.2 Revision 1939: 3/31/2015 12:32:33 PM (01:50:36.1557985) <KEVIN-PC: 192.168.1.23>
+Major Isis Runtime Settings: ORACLESIZE = 3; 
+P2P/ACK port numbers = {9753/9754}; IPMC base portno = 11002
+IPMC address range = {224.0.19.136-224.7.180.168}, MAXIPMCADDRS in use = 25
+---------------------------------------------------------------------------------------------
+... MyAddress = (5688)
+Isis: Searching for the Isis ORACLE...
+Isis: Found the Isis.ORACLE service, attempting to connect.........ISIS process-id: 5688, my_address = (5688)
+New View: View[gname=<IsisGroup>, gaddr=(0:224.0.204.217/0:0), viewid=2;  3 members={ [(1708)(9560)(5688)]}, nextIn={  <2:0> 2:0 2:0 2:0 }, minStable=-1 (last sent -1), StableTo={ ** 0 0 0 }, joining={ [(5688)]}, leaving={ []}, IamLeader = False
+New View: View[gname=<IsisGroup>, gaddr=(0:224.0.204.217/0:0), viewid=3;  4 members={ [(1708)(9560)(5688)(5156)]}, nextIn={  <3:0> 3:0 3:0 3:0 3:0 }, minStable=-1 (last sent -1), StableTo={ ** 0 0 0 0 }, joining={ [(5156)]}, leaving={ []}, IamLeader = False
+New View: View[gname=<IsisGroup>, gaddr=(0:224.0.204.217/0:0), viewid=4;  5 members={ [(1708)(9560)(5688)(5156)(2460)]}, nextIn={  <4:0> 4:0 4:0 4:0 4:0 4:0 }, minStable=-1 (last sent -1), StableTo={ ** 0 0 0 0 0 }, joining={ [(2460)]}, leaving={ []}, IamLeader = False
